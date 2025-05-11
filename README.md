@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website repository! This website is designed to showcase my projects, skills, and background in Full Stack Java development
 
 Live Preview
-You can view the live website here:
+You can view the live website here:https://korerakesh16.github.io/Rakesh-portfolio/
 
 ## Features
 - Responsive design
